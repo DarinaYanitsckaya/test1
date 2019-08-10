@@ -1,0 +1,46 @@
+
+     body { margin: 0; }
+     header {
+      display: block;
+      background: #00b0d8 ; 
+
+     }
+     .header-bg {
+      background:  center bottom; 
+      height: 405px; 
+     
+     }
+     .header-bg img {
+      position: relative; 
+      
+     }
+
+   table {
+   	border-collapse: collapse;
+   	border: 5px solid black;
+    width: 100%;
+   }
+   .tar {
+    width: 100px; /* Ширина ячейки */
+   }
+  th{
+  	border: 5px solid grey;
+  	background-color: #7FFFD4 ;
+  }
+  .divv{
+  	background-color: #fc0; /* Цвет фона слоя */
+    padding: 5px; /* Поля вокруг текста */
+    float: left; /* Обтекание по правому краю */
+    width: 500px; /* Ширина слоя */
+}
+   .vdiv{
+
+  	background-color: #c0c0c0; /* Цвет фона слоя */
+    padding: 5px; /* Поля вокруг текста */
+    width: 800px; /* Ширина слоя */
+    float: right; /* Обтекание по правому краю */
+   }
+.lion {
+
+ top: 3px; /* От верхнего края */
+}
